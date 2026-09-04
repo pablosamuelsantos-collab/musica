@@ -1,8 +1,16 @@
 h1 {
-    font-size: 50px;
-    color: rgb(79, 79, 255);
+    font-size: 60px;
+    color: rgb(255, 215, 0); /* Dourado, igual coroa de rei do funk! */
+    text-align: center;
+    font-family: Arial, sans-serif;
+    text-shadow: 3px 3px 5px black; /* Sombra pra dar profundidade */
 }
 
-body{
-background-color: rgb(5, 5, 124);
+h2 {
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: rgba(31, 23, 141, 0.3); /* Fundo azul transparente */
+    padding: 10px;
 }
